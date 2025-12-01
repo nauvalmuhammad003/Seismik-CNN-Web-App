@@ -1,0 +1,7 @@
+streamlit
+tensorflow==2.13.0
+numpy
+matplotlib
+scipy
+obspy
+pandas
